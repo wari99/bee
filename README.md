@@ -7,3 +7,6 @@
 
 
 3004: https://judge.beecrowd.com/pt/problems/view/3004
+
+
+1930: https://judge.beecrowd.com/pt/problems/view/1930
