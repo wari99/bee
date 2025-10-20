@@ -4,3 +4,6 @@
 
 
 1115: https://judge.beecrowd.com/pt/problems/view/1115
+
+
+3004: https://judge.beecrowd.com/pt/problems/view/3004
