@@ -10,3 +10,6 @@
 
 
 1930: https://judge.beecrowd.com/pt/problems/view/1930
+
+
+2896: https://judge.beecrowd.com/pt/problems/view/2896
